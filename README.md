@@ -1,2 +1,5 @@
 # clones-barrage
-Barrage plain-language clone of fitzyracing1/clones
+
+Barrage clone of [fitzyracing1/clones](https://github.com/fitzyracing1/clones).
+
+Read [listing.barrage](listing.barrage).

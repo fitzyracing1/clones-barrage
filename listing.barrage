@@ -1,0 +1,37 @@
+# clones
+
+> HTML shelf named clones. Separate from barrage-clones (the wave hub).
+
+## Purpose
+Give a plain-language door to fitzyracing1/clones.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader to barrage-clones if they want the wave hub.
+
+## Key ideas
+- clones (the named shelf)
+- HTML source
+- Not barrage-clones
+
+## The actual code
+```
+# source: fitzyracing1/clones
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/clones”
+
+## Decisions the program makes
+- If a reader wants the wave index → barrage-clones
+
+## What a person would notice
+A named wrap on an older clones door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source, or barrage-clones.
